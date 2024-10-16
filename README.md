@@ -1,5 +1,9 @@
 # Loader Animation
 
+![17290870966648025826470094606591](https://github.com/user-attachments/assets/c6c1f1d6-c6b0-4142-940e-581bfe207973)
+
+
+
 This is a simple radar-style loading animation built using HTML and CSS.
 
 ## Features
